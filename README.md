@@ -56,23 +56,18 @@ Techno-Functional Consultant with **4+ years** building enterprise Oracle integr
 
 <div align="center">
 
-<p align="center">
-  <a href="https://github.com/saikumargudelly">
-    <img width="49%" src="https://github-stats-extended.vercel.app/api?username=saikumargudelly&show_icons=true&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&hide_rank=true" alt="Saikumar's GitHub Stats" />
-  </a>
-  <a href="https://github.com/saikumargudelly">
-    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=saikumargudelly&theme=dark&background=0d1117&border=30363d&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakNum=58a6ff&sideNums=c9d1d9&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e" alt="Saikumar's GitHub Streak" />
-  </a>
-</p>
+<a href="https://github.com/saikumargudelly">
+  <img src="https://github-stats-extended.vercel.app/api?username=saikumargudelly&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&count_private=true&card_width=340&hide_rank=true" alt="Saikumar's GitHub Stats" />
+</a>
+<a href="https://github.com/saikumargudelly">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saikumargudelly&theme=dark&hide_border=false&card_width=340" alt="Saikumar's GitHub Streak" />
+</a>
 
-<p align="center">
-  <a href="https://github.com/saikumargudelly">
-    <img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=saikumargudelly&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=6" alt="Top Languages" />
-  </a>
-  <a href="https://github.com/saikumargudelly/fastapi-a2a">
-    <img width="49%" src="https://github-stats-extended.vercel.app/api/pin/?username=saikumargudelly&repo=fastapi-a2a&theme=github_dark&hide_border=false" alt="Featured Repo: fastapi-a2a" />
-  </a>
-</p>
+<br/>
+
+<a href="https://github.com/saikumargudelly">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=saikumargudelly&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&card_width=680&langs_count=6" alt="Top Languages" />
+</a>
 
 </div>
 
