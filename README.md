@@ -57,16 +57,16 @@ Techno-Functional Consultant with **4+ years** building enterprise Oracle integr
 <div align="center">
 
 <a href="https://github.com/saikumargudelly">
-  <img src="https://github-stats-extended.vercel.app/api?username=saikumargudelly&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&count_private=true&card_width=340&hide_rank=true" alt="Saikumar's GitHub Stats" />
+  <img width="49.5%" src="https://github-stats-extended.vercel.app/api?username=saikumargudelly&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&count_private=true&card_width=440&hide_rank=true" alt="Saikumar's GitHub Stats" />
 </a>
 <a href="https://github.com/saikumargudelly">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saikumargudelly&theme=dark&hide_border=false&card_width=340" alt="Saikumar's GitHub Streak" />
+  <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=saikumargudelly&theme=dark&hide_border=false&card_width=440" alt="Saikumar's GitHub Streak" />
 </a>
 
-<br/>
+<br/><br/>
 
 <a href="https://github.com/saikumargudelly">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=saikumargudelly&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&card_width=680&langs_count=6" alt="Top Languages" />
+  <img width="100%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=saikumargudelly&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&card_width=890&langs_count=6" alt="Top Languages" />
 </a>
 
 </div>
