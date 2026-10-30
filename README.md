@@ -56,9 +56,9 @@ Techno-Functional Consultant with **4+ years** building enterprise Oracle integr
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=saikumargudelly&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&count_private=true&card_width=400&hide_rank=true)](https://github.com/saikumargudelly)&nbsp;[![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=saikumargudelly&theme=dark&hide_border=false&card_width=390)](https://github.com/saikumargudelly)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=saikumargudelly&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&count_private=true&card_width=400&hide_rank=true)](https://github.com/saikumargudelly)&nbsp;[![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=saikumargudelly&theme=dark&hide_border=false&card_width=390)](https://github.com/saikumargudelly)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saikumargudelly&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&card_width=790&langs_count=6)](https://github.com/saikumargudelly)
+[![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=saikumargudelly&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&card_width=790&langs_count=6)](https://github.com/saikumargudelly)
 
 </div>
 
